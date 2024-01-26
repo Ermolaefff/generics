@@ -1,0 +1,6 @@
+**/.idea
+**/postgres-data
+**/logs
+**/out
+**/v1
+**/target
